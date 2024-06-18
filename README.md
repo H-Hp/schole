@@ -1,0 +1,2 @@
+# schole
+Home-built LLM
